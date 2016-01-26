@@ -156,7 +156,14 @@ require "config.php";
                                        
                                    </div>
                                     <div class="col_two_fifth ">
-                                        
+									<?php
+										
+
+									?>
+
+
+
+									   
                                         <div class="row" >
                                         <label name="name">Surabhi W.</label></div>
                                         <div class="row" >
@@ -340,7 +347,7 @@ require "config.php";
                 <div class="container clearfix">
 
                     <div class="col_half">
-                        Copyrights &copy; 2015 All Rights Reserved by Denique Auto Care<br>
+                        Copyrights &copy; 2016 All Rights Reserved by MyTrailorz<br>
                         <div class="copyright-links"><a href="#" style"color:#dadada">Developed By</a><a href="#"style="color:#dadada">Sands Zenith</a></div>
                     </div>
 
