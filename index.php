@@ -530,7 +530,7 @@ session_start();
 			<div class="container">
 			<div class="topmargin-lg bottommargin-lg">
 			 <div class="heading-block center" >
-                                <h3 style="color:green" class="hvr-grow"  >vinit agarwal</h3>
+                                <h3 style="color:green" class="hvr-grow"  >How we work </h3>
                                  <span style="color:black; font-weight:bold"> It is as simple as counting 1 to 4</span> 
                             </div>
 			       <div id="processTabs">
